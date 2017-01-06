@@ -15,3 +15,7 @@ Limitations:
 All of the above would be pretty easy to add in so feel free to modify the source code as you wish!
 
 If you have updates, tell me and I'll be happy to add them!
+
+
+# Limitations with this software
+![Comparison](/MapInfo Dialog v.s. x64Dialog.png)
