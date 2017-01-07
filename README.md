@@ -6,10 +6,10 @@ Many features which are existant in the traditional MapInfo dialog are not inclu
 
 Limitations:
 
-* File types other than .TAB are not included.
-* 'Preferred View' drop down list is currently inaccessible
-* 'Create copy' checkbox is currently inaccessible.
-* Only 1 table can be opened at a time
+* File types other than .TAB are not included. (These default 32-bit dialog boxes remain unchanged.)
+* 'Preferred View' drop down list is currently inaccessible (from the Open .Tab dialog)
+* 'Create copy' checkbox is currently inaccessible. (from the Open .Tab dialog)
+* Only 1 table can be opened at a time. (from the Open .Tab dialog)
 * It doesn't have the ability to access any of the accessories found when clicking the button in the top right of the base dialog window.
 
 All of the above would be pretty easy to add in so feel free to modify the source code as you wish!
@@ -17,7 +17,7 @@ All of the above would be pretty easy to add in so feel free to modify the sourc
 If you have updates, tell me and I'll be happy to add them!
 
 
-# Limitations with this software
+# Comparrison with old open-menu
 
 Items highlighted in blue are things which are not available in this version of the dialog. **This is not the dialog itself.**
 
