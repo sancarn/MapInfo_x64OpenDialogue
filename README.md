@@ -10,7 +10,7 @@ Limitations:
 * 'Preferred View' drop down list is currently inaccessible (from the Open .Tab dialog)
 * 'Create copy' checkbox is currently inaccessible. (from the Open .Tab dialog)
 * Only 1 table can be opened at a time. (from the Open .Tab dialog)
-* It doesn't have the ability to access any of the accessories found when clicking the button in the top right of the base dialog window.
+* It doesn't have the ability to access any of the accessories found when clicking the button in the top right of the base dialog window (see below).
 
 All of the above would be pretty easy to add in so feel free to modify the source code as you wish!
 
