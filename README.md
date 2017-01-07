@@ -18,4 +18,7 @@ If you have updates, tell me and I'll be happy to add them!
 
 
 # Limitations with this software
+
+Items highlighted in blue are things which are not available in this version of the dialog. **This is not the dialog itself.**
+
 ![Comparison](/MapInfo Dialog v.s. x64Dialog.png)
