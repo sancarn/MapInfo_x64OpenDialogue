@@ -16,14 +16,15 @@ The user can select a file using the new open dialog. When clicking OK the infor
 
 ## Limitations:
 Although the newer dialog is more powerful than the base dialog in some aspects (custom sidebars and richer address bar) it's also currently only an application to get a 'feel' for using the new style of open dialog. Here are a few limitations the current build has:
-File types other than .TAB are not included. (Dialogs for "Open Workspace" etc. remain unchanged.)
-Only 1 table can be opened at a time.
-'Preferred View' drop down list is currently inaccessible.
-'Create copy' checkbox is currently inaccessible.
-Accessories found in the top right button/drop down of the base dialog, are currently inaccessible. (Not entirely sure what these features are used for?)
-Environments Tested:
-Tested and working in Windows 7 | MapInfo Pro 12.5.1 64-Bit.
-Please let me know if this still works in later versions Windows and MapInfo!
+
+* File types other than .TAB are not included. (Dialogs for "Open Workspace" etc. remain unchanged.)
+* Only 1 table can be opened at a time.
+* 'Preferred View' drop down list is currently inaccessible.
+* 'Create copy' checkbox is currently inaccessible.
+* Accessories found in the top right button/drop down of the base dialog, are currently inaccessible. (Not entirely sure what these features are used for?)
+* Environments Tested:
+* Tested and working in Windows 7 | MapInfo Pro 12.5.1 64-Bit.
+* Please let me know if this still works in later versions Windows and MapInfo!
 
 ## License:
 MIT License 
