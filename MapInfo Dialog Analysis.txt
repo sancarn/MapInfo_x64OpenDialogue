@@ -1,0 +1,133 @@
+Open
+ahk_class #32770
+ahk_exe MapInfoPro.exe
+
+All text:
+Look &in:
+TBD
+Owner:
+Filter Tables...
+FolderView
+File &name:
+Files of &type:
+MapInfo (*.tab)
+Database:
+<Qualifier>
+&Preferred View:
+Automatic
+&Create copy in MapInfo format for read/write
+Open as &read-only
+&Open
+Cancel
+&Help
+&MapInfo Places
+&Standard Places
+
+***************
+Files of type:
+***************
+MapInfo (*.tab)
+Workspace (*.wor;*.mws)
+Microsoft Access Database (*.mdb; *.accdb)
+Microsoft Excel (*.xls; *.xlsx)
+dBASE DBF (*.dbf)
+ESRI (R) Shapefile (*.shp)
+Raster Image (*.ecw;*.url;*.jp2;*.j2k;*.bil;*.sid;*.gen;*.adf;*.img;*.ntf;*.tif;*.grd;*.grc;*.bmp;*.gif;*.tga;*.jpg;*.pcx;*.png;*.psd;*.wmf;*.emf)
+Grid Image (*.adf;*.flt;*.txt;*.asc;*.img;*.dem;*.dt0;*.dt1;*.dt2;*.mig)
+Delimited ASCII (*.txt)
+Lotus 1-2-3 (*.wk1;*.wks;*.wk3;*.wk4)
+Comma delimited CSV (*.csv)
+SQLite Database (*.sqlite)
+
+
+***************
+Preferred View:
+***************
+Automatic
+Browser
+Current Mapper
+New Mapper
+No View
+
+*****************
+MapInfo Folder Selection features
+*****************
+MapInfo Places
+standard Places
+
+***************
+CSV Control
+***************
+Button3  	  &Create copy in MapInfo format for read/write
+Create copy in MapInfo format for read/write
+
+Controls:
+Microsoft Excel (*.xls; *.xlsx)
+Delimited ASCII (*.txt)
+Lotus 1-2-3 (*.wk1;*.wks;*.wk3;*.wk4)
+Comma delimited CSV (*.csv)
+
+******************
+DBMS connection
+******************
+Button2
+
+
+Window Text:
+Connection Ty&pe:
+ODBC
+&New...
+Cancel
+&Help
+
+Connection Type:
+ODBC
+FDP (SQLite)
+
+Button1 = New --> Select SQLite Database File
+	      --> Select Data Source dialog.
+
+
+*******************
+Dialog titles:
+*******************
+Open ahk_class #32770 ahk_exe MapInfoPro.exe
+Open Workspace ahk_class #32770 ahk_exe MapInfoPro.exe
+
+
+
+
+
+
+
+
+
+
+**************
+OTHER DIALOGS:
+**************
+Import File dialog
+
+	MapInfo Interchange (*.mif)
+	AutoCAD DXF (*.dxf)
+	MapInfo DOS MBI (*.mbi)
+	MapInfo DOS MMI (*.mmi)
+	MapInfo DOS Image (*.img)
+	OS MasterMap (*.gml)
+	Geographic Markup Language 2.1 (*.gmi, *.xml)
+
+--- NO DBMS CONNECTION ---
+
+Universal Data
+
+*************************************************************
+Database Table - Equivalent of DBMS Connection in Open dialog
+*************************************************************
+
+Run MapBasic program
+	Application (*.mbx)
+	All Files (*.*)
+
+
+Open WMS table - No Explorer
+Open WFS Table - No Explorer
